@@ -3,7 +3,7 @@ Learning Tailwind CSS
 Setting up vscode for a project in which tailwindcss is used
 Step1:
 npm init -y // This initializes the directory as a NodeJs project
-#Step2:
+# Step2:
 npm install -D tailwindcss postcss autoprefixer vite // installs required packages
 #Step3:
 npx tailwindcss init -p
