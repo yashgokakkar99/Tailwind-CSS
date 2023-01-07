@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind componenets;
+
+
+@tailwind utilities;
+
+@layer components{
+    .btn{
+        @apply bg-blue-500 text-white m-5 p-2 rounded-md
+    }
+}
